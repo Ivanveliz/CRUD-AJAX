@@ -1,0 +1,138 @@
+{
+  "Santos": [
+    {
+      "id": "6",
+      "nombre": "Yaka",
+      "constelacion": "Virgo"
+    },
+    {
+      "nombre": "Mu",
+      "constelacion": "Aries",
+      "id": "6ae1"
+    },
+    {
+      "id": "632a",
+      "nombre": "Aldeberan ",
+      "constelacion": "Tauro"
+    },
+    {
+      "nombre": "Seya",
+      "constelacion": "Pegaso",
+      "id": "ac2a"
+    },
+    {
+      "id": "6",
+      "nombre": "Yaka",
+      "constelacion": "Virgo"
+    },
+    {
+      "id": "6db9",
+      "nombre": "Seya",
+      "constelacion": "Pegasus"
+    },
+    {
+      "id": "02f0"
+    },
+    {
+      "id": "24cf"
+    },
+    {
+      "id": "b2d6",
+      "nombre": "Aldebaran",
+      "constelacion": "Aldebaran"
+    },
+    {
+      "id": "c886",
+      "nombre": "Aldebaran",
+      "constelacion": "Tauro"
+    },
+    {
+      "id": "5fbf",
+      "nombre": "Aioria",
+      "constelacion": "Leo"
+    },
+    {
+      "id": "8c51",
+      "nombre": "Yaka",
+      "constelacion": "Virgo"
+    },
+    {
+      "id": "e5f3",
+      "nombre": "Ikki",
+      "constelacion": "Pegaso"
+    },
+    {
+      "id": "5f50",
+      "method": "PUT",
+      "nombre": "Ikki",
+      "constelacion": "FENIX"
+    },
+    {
+      "id": "fbbe",
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "id": "992a",
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "id": "f399",
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "id": "7fb4",
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "id": "abdc",
+      "nombre": "Seya",
+      "constelacion": "Pegasus"
+    },
+    {
+      "id": "618e",
+      "nombre": "asd",
+      "constelacion": "asd"
+    },
+    {
+      "id": "d0a0",
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "id": "dbf2",
+      "nombre": "Seya",
+      "constelacion": "Pegaso"
+    }
+  ],
+  "Dioses": [
+    {
+      "id": "1",
+      "nombre": "Athena",
+      "de": "Tierra"
+    },
+    {
+      "id": "2",
+      "nombre": "Poseidón",
+      "de": "Mar"
+    },
+    {
+      "id": "3",
+      "nombre": "Hades",
+      "de": "Inframundo"
+    },
+    {
+      "id": "4",
+      "nombre": "Zeus",
+      "de": "Cielo"
+    },
+    {
+      "id": "5",
+      "nombre": "Ares",
+      "de": "Guerra"
+    }
+  ]
+}

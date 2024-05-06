@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crud fetch</title>
+</head>
+<style>
+    body {
+        background-color: rgb(5, 1, 17);
+        color: snow;
+        font-family: sans-serif;
+        text-align: center;
+    }
+</style>
+
+<body>
+    <h1>Crud APIrest fetch</h1>
+    <section id="crud">
+        <article>
+            <h2 class="crud-title">Agregar Caballero</h2>
+            <form class="crud-form">
+                <input type="text" name="nombre" required placeholder="nombre">
+                <br>
+                <input type="text" name="constelacion" required placeholder="constelación">
+                <input type="submit" value="enviar">
+                <input type="hidden" name="id">
+            </form>
+        </article>
+        <article>
+            <h2>Ver caballeros</h2>
+            <table class="crud-table">
+                <thead>
+                    <th>Nombre</th>
+                    <th>constelación</th>
+                    <th>Acciones</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </article>
+    </section>
+    <template id="crud-template">
+        <tr>
+            <td class="name"></td>
+            <td class="constelation"></td>
+            <td>
+                <button class="edit">Editar</button>
+                <button class="delete">Eliminar</button>
+            </td>
+        </tr>
+
+    </template>
+    <script src="sriptFetch.js"> </script>
+</body>
+
+</html>
